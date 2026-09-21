@@ -1,4 +1,4 @@
-# Section 24: Using MySQL In NodeJS & Express Sebsites [Day 60-62]
+# Section 24: Using MySQL In NodeJS & Express Websites [Day 60-62]
 
 ## 422 - Module Introduction [Day 60]
 
@@ -8,7 +8,7 @@
 
 ## 425 - Planning Our Database Structure [Day 60]
 
-## 426 - Database Initialisation [Day 60]
+## 426 - Database Initialization [Day 60]
 
 ## 427 - Project Setup [Day 60]
 
